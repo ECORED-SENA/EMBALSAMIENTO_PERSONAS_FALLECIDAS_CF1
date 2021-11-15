@@ -1,0 +1,176 @@
+
+.fondo1
+  background: url('../assets/curso/fondo1.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+.fondo2
+  background: url('../assets/curso/tema1/fondo2.png')
+  background-position: bottom
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+.fondo-llamado
+  background: linear-gradient(to bottom, #F5F5F5, #EEEEF2)
+  
+.fondo-slider
+  background-image: url(../assets/curso/fondo-banner.svg)
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+
+.bloque-texto-a.color-primario
+  background-color: #EEEEF2
+
+.bloque-texto-a.color-primario:before
+  background-color: #A6DAD7
+  left: 40%
+
+.bloque-texto-a
+  &.reverse
+    &:before
+      left: 0
+      right: 50%
+
+///tarjetas custom1
+.bg-color2
+  width: 32%
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px 10px 0px 0px
+  border-bottom: 5px solid #DB8804
+
+.bg-color3
+  width: 32%
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px 10px 0px 0px
+  border-bottom: 5px solid #D93328
+
+.bg-color4
+  width: 32%
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px 10px 0px 0px
+  border-bottom: 5px solid #008F85
+///////end tarjetas custom uno
+
+
+.bg_topLine_01
+  background-image: url("../assets/curso/tema1/top_crd_01.svg")
+  background-position: top center
+  background-size: contain
+  background-repeat: no-repeat
+.bg_topLine_02
+  background-image: url("../assets/curso/tema1/top_crd_02.svg")
+  background-position: top center
+  background-size: contain
+  background-repeat: no-repeat
+
+
+  
+//Card TopLine
+.crd--topLine 
+  width: 200px
+  max-width: 300px
+  height: 100% !important 
+  padding-top: 2rem !important
+  background-color: white  
+  border-bottom-right-radius: 12px
+  border-bottom-left-radius: 12px  
+  -webkit-box-shadow: 0px 3px 16px 0px rgba(0,0,0,0.35)
+  box-shadow: 0px 3px 16px 0px rgba(0,0,0,0.35)  
+
+.hr_divider
+  width: 50px
+  height: 2px
+  background-color: #12263F
+
+
+.bg-line1
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema1/line1.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+.bg-line2
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema1/line2.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+.bg-line3
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema1/line3.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+.bg-line4
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  border-radius: 10px
+  background-image: url(../assets/curso/tema1/line4.svg)
+  background-size: auto
+  background-repeat: no-repeat
+  background-position: right
+
+
+//CUSTOM PASOS TIPO N CON BORDE
+.pasos-a__circle
+  width: 58px
+  height: 58px
+  min-width: 50px
+  border-radius: 50%
+
+.pasos-a.color-primario .pasos-a__circle 
+  background-color: #FFF
+  border: 3px solid #1D272B
+
+.pasos-a.color-primario .pasos-a__circle div
+  color: #00978E
+  font-size: 28px
+
+.pasos-a.color-primario .pasos-a__numero::after
+  border-left-color: #1D272B
+.pasos-a.color-primario .pasos-a__linea__esquina__linea
+  border-color: #1D272B
+.pasos-a.color-primario .pasos-a__linea .hor-line
+  border-top-color: #1D272B
+// ENDDD CUSTOM PASOS TIPO N CON BORDE
+
+
+.cajon-b.abajo-derecha
+  &.ajustado
+    &:before
+      bottom: -10px
+      top: 0%
+      left: 5%
+
+.cajon-b.abajo-derecha:before 
+  left: 26%
+.cajon-b:before 
+  right: 25%
+
+.slyder-a__tipo-a .slyder-a__bullets 
+  bottom: -20px
+
+.slyder-a__tipo-a .slyder-a__btn--atrs
+  left: -26px
+.slyder-a__tipo-a .slyder-a__btn--sigt 
+  right: -24px
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  opacity: 0.4
+
+
+@media screen and ( max-width: 992px)
+  
+  //FONDOS
+  .fondo1, .fondo2
+    margin-inline: -1.4rem
+    background-size: cover
+  .bg-color2, .bg-color3, .bg-color4
+    width: 85%
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    top: 102% !important
