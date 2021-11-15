@@ -277,7 +277,7 @@
         h3.mb-4 Periodo tres
         p.mb-5 Este periodo se caracterizó porque la preservación del cuerpo fue  con fines funerarios. El precursor de este periodo fue el Dr. Thomas Holmes, conocido como el padre de la tanatopraxia moderna.
         
-        .bloque-texto-a.reverse.color-primario.p-4.p-md-4.mb-5 
+        .bloque-texto-a.reverse.color-primario.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-9.mb-4.mb-lg-0
               .bloque-texto-a__texto.p-4

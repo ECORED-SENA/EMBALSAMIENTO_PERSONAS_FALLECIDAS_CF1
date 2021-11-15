@@ -9,9 +9,32 @@
       h1 Conceptos y generalidades para el sector funerario 
 
 
+    .row.justify-content-center.fondo3
+      .col-lg-12.px-md-5
+        .row.justify-content-center.mb-5
+          p.mb-4 El corazón de la labor funeraria se encuentra en el laboratorio de tanatopraxia, debido a que es el lugar de custodia de los seres más importantes para alguien. En este espacio se custodia con respeto y cuidados sanitarios al padre, a la madre, al hijo o al ser más querido de otra persona. Esto también sucede en las salas de transición de los hospitales, las morgues o cualquier otro lugar de paso que permite cuidar de aquellos cuerpos o restos mortales. 
+          .col-8.col-lg-4.mb-4.mb-lg-0.align-self-center
+            figure
+              img.mx-auto(src='@/assets/curso/tema2/img1.jpg', alt='Confiabilidad profesional' style='width: 420px')
+          .col-lg-8
+            p.mb-4 Para trabajar en el sector funerario se debe actuar con total responsabilidad desde la perspectiva de cuidados sanitarios o salubridad, porque existen riesgos biológicos que se pueden transmitir a las comunidades por inadecuadas prácticas de salubridad, ya que en los laboratorios de tanatopraxia se está manipulando con biológicos en vía de descomposición. El cuerpo es materia orgánica que, al terminar todas las funciones vitales, comienza un nuevo ciclo donde las condiciones internas, como los microorganismos o agentes patógenos, inician labores de degradación de la materia orgánica.
+            .cajon.color-secundario.p-4.mb-0
+              p.mb-0 Por lo anterior, los profesionales que están en funciones de manipulación de biológicos en vía de descomposición deben tener protocolos para su salubridad y la de su comunidad. Es decir, este proceso es importante porque disminuye accidentes, enfermedades o perjuicios laborales y sociales. 
+              
+        .row.justify-content-center
+          .bloque-texto-a.reverse.color-primario.p-4.p-md-5.mb-5 
+            .row.m-0.align-items-center.justify-content-between
+              .col-lg-9.mb-4.mb-lg-0
+                .bloque-texto-a__texto.p-4
+                  p.mb-0 Como trabajadores del sector funerario, no solo se debe velar por el cuidado de fallecidos, sino del cuidado propio, para así cuidar a la comunidad en general. El primer paso para ello son las premisas del autocuidado de cualquier proceso, esto implica conocer, planear y tener todos las preparaciones y las precauciones necesarias para crear una red de cuidadores para los que la premisa debe ser: <em> yo me cuido y cuido a los demás.</em>
+              .col-lg-3.mb-4.mb-lg-0.align-self-center
+                figure
+                  img.mx-auto(src='@/assets/curso/tema2/img2.svg', alt='imagen ambiental', style='width:260px;')
+        
 
 
     
+  
 </template>
 
 <script>

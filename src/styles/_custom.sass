@@ -13,6 +13,13 @@
   background-repeat: no-repeat
   margin-inline: -3.4rem
 
+.fondo3
+  background: url('../assets/curso/tema2/fondo3.png')
+  background-position: top
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
 .fondo-llamado
   background: linear-gradient(to bottom, #F5F5F5, #EEEEF2)
   
@@ -22,6 +29,8 @@
   background-size: cover
   background-repeat: no-repeat
 
+.bloque-texto-a
+  position: relative
 .bloque-texto-a.color-primario
   background-color: #EEEEF2
 
@@ -164,13 +173,37 @@
   opacity: 0.4
 
 
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon
+  background-color: #ffffff
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon:after
+  background-color: #1D272D
+
+.linea-tiempo-b__icon img
+  width: 120px
+
+.anexo
+  background-color: #f6f6f6
+
+.contenedorLink
+  position: absolute
+  bottom: 0%
+  right: 0
+  transform: translate(-20%, 50%)
+
+
 @media screen and ( max-width: 992px)
   
   //FONDOS
-  .fondo1, .fondo2
+  .fondo1, .fondo2, .fondo3
     margin-inline: -1.4rem
     background-size: cover
+  //END FONDOS
   .bg-color2, .bg-color3, .bg-color4
     width: 85%
   .slyder-a__btn--sigt, .slyder-a__btn--atrs
     top: 102% !important
+  
+  .contenedorLink
+    position: relative
+    transform: translate(0,0)
