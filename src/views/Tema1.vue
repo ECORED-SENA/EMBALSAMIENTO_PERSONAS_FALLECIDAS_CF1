@@ -209,7 +209,7 @@
 
     .row.justify-content-center.fondo2.mb-4
       .col-lg-11.px-md-5
-        PasosA.color-primario.mb-5(tipo="n")
+        PasosA.color-secundario.mb-5(tipo="n")
           .row
             .col-md-12.mb-4.mb-md-0
               .tarjeta-avatar-b.mb-0
@@ -338,7 +338,7 @@
     
     .row.mb-1
       .col-lg-12.p-3.mb-3(style='background-color: #1D272B; border-radius: 10px;')
-        h3.text-center.text-white.mb-0  En las primeras décadas del siglo XX, se inventaron nuevos equipos de embalsamamiento, entre ellos:
+        h4.text-center.text-white.mb-0  En las primeras décadas del siglo XX, se inventaron nuevos equipos de embalsamamiento, entre ellos:
       
     .row.justify-content-around.mb-4
       .bg-color2.p-4.mb-4(data-aos="fade-left")
