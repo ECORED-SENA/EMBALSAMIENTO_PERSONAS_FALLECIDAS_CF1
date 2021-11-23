@@ -130,7 +130,9 @@
           .col-lg-5.align-self-center.p-lg-0
             .cajon-b.color-primario.p-4.p-lg-3.mb-2
               p.mb-0  El sistema innato es el sistema de defensa con el que todas las personas nacen. Se va desarrollando por medio del reconocimiento y la alerta de un antígeno, para así poder producir respuestas inmediatas de defensa, que transportan por el torrente sanguíneo los glóbulos blancos que producen citoquinas y permean los tejidos, generando la inmunoglobulina.
-            p.px-3.mb-5.mb-lg-0 Con este mecanismo, los linfocitos fagotizadores  destruyen los objetos extraños; luego, el cuerpo limpia los residuos. En todo este proceso, se genera la infección, que es la reacción de la batalla entre esos antígenos y los anticuerpos por el bienestar del organismo. Después de todo esto, lo último que sucede es que se activa el sistema de defensa adquirida, que es cuando ya el cuerpo es capaz de reconocer el antígeno.
+            p.px-3.mb-5.mb-lg-0 Con este mecanismo, los linfocitos fagotizadores  destruyen los objetos extraños; luego, el cuerpo limpia los residuos. En todo este proceso, se genera la infección, que es la reacción de la batalla entre esos antígenos y los anticuerpos por el bienestar del organismo. Después de todo esto, lo último que sucede es que se activa el 
+              b sistema de defensa adquirida, 
+              b-none que es cuando ya el cuerpo es capaz de reconocer el antígeno.
 
         .row(style='justify-content: space-evenly')
           .col-lg-5.align-self-center.p-lg-0.mb-4.mb-lg-0

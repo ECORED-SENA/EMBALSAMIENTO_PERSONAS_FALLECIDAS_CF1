@@ -372,7 +372,7 @@
         figure
           img.mx-auto(src='@/assets/curso/tema1/img15.svg',alt='imagen ambiental', style='width: 479px;')
 
-    p.mb-5 El tipo de tanatopraxia se define por sus intenciones. Observe el siguiente recurso educativo para valorar las características de cada una de ellos.
+    p.mb-5 El tipo de tanatopraxia se define por sus intenciones. Observe el siguiente recurso educativo para valorar las características de cada una de ellas.
 
 
 
@@ -443,7 +443,7 @@
         h2.text-center(style='color: #12263f') Preservación bioquímica y conservación de la apariencia estética del fallecido.
 
 
-    p.mb-4 Esto solo se logra con el empleo de químicos para embalsamar apropiados, mezclados profesionalmente y aplicados con técnicas y criterios científicos. Cuando no se hace de esta manera, el resultado siempre es incierto. Por eso, en este punto está la diferencia del tanatopráctor certificado y el empírico.
+    p.mb-4 Esto solo se logra con el empleo de químicos para embalsamar apropiados, mezclados profesionalmente y aplicados con técnicas y criterios científicos. Cuando no se hace de esta manera, el resultado siempre es incierto. Por eso, en este punto está la diferencia del tanatopractor certificado y el empírico.
     p.mb-5 Recuerde que el 
       b protocolo básico de cualquier tipo de embalsamamiento es:
 
@@ -566,7 +566,7 @@
         
 
 
-    p.mb-5 Es maravilloso conocer todos los cambios, avances y modificaciones que ha tenido el proceso de embalsamamiento a lo largo de la historia, lo cual permite evidenciar que los tanatopráctores son el último tramo en la despedida final del fallecido, desde tiempos pasados hasta la actualidad; por ello, se hace necesario que las personas involucradas desarrollen un proceso que brinde respeto por la muerte y aseguramiento de los protocolos de bioseguridad, normatividad y preservación del cuerpo, según los lineamientos del sector funerario.
+    p.mb-5 Es maravilloso conocer todos los cambios, avances y modificaciones que ha tenido el proceso de embalsamamiento a lo largo de la historia, lo cual permite evidenciar que los tanatopractores son el último tramo en la despedida final del fallecido, desde tiempos pasados hasta la actualidad; por ello, se hace necesario que las personas involucradas desarrollen un proceso que brinde respeto por la muerte y aseguramiento de los protocolos de bioseguridad, normatividad y preservación del cuerpo, según los lineamientos del sector funerario.
 
 
 

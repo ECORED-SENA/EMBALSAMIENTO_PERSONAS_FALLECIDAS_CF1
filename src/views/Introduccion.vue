@@ -23,7 +23,7 @@
           
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/hi8eO6oAFb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           
         .row.mb-5
           .bloque-texto-a.color-primario.p-4.p-lg-5.mb-5 
