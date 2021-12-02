@@ -143,7 +143,7 @@ export default {
     {
       termino: 'Descomposición',
       significado:
-        'Es la separación de compuestos en sustancias más simples mediante la acción de enzimas microbianas y/o autolíticaas.',
+        'Es la separación de compuestos en sustancias más simples mediante la acción de enzimas microbianas y/o autolíticas.',
     },
 
     {
@@ -296,6 +296,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

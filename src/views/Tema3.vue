@@ -54,7 +54,7 @@
             .contenedorLink
               .row
                 .col-auto
-                  a.anexo.mb-4(:href="obtenerLink('/downloads/GUIA RIESGO BIOLÓGICO PARA TRABAJADORES.pdf')" target="_blank")
+                  a.anexo.mb-4(:href="obtenerLink('/downloads/Guia_Riesgo_Biologico.pdf')" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
@@ -302,7 +302,7 @@
             .tarjeta
               .p-4.text-start
                 h3 Retirar botas
-                p.mb-0 Retirar el calzado especializado para dicha labor -botas plásticas blancas.
+                p.mb-0 Retirar el calzado especializado para dicha labor (botas plásticas blancas).
             .tarjeta-avatar-b__img
               img(src='@/assets/curso/tema3/icon13.svg' alt='AvatarTop')
       .row
@@ -315,7 +315,7 @@
                 h3 Lavar las manos
                 p.mb-0 Lavar muy bien las manos, antebrazo y brazo.
 
-    p.mb-5 Luego de haber identificado algunos elementos de protección, es importante adicionar al uso de estos la limpieza de las manos, ya que son una parte del cuerpo del funcionario necesaria para la manipulación del cadáver. Una vez finalice esta función, se recomienda un lavado de manos. 
+    p.mb-5 Luego de haber identificado algunos elementos de protección, es importante adicionar al uso de estos, la limpieza de las manos, ya que son una parte del cuerpo del funcionario necesaria para la manipulación del cadáver. Una vez finalice esta función, se recomienda un lavado de manos. 
 
     .row.justify-content-around.fondo-recuadro.mb-5
       .col-1.col-md-3
@@ -369,13 +369,13 @@ export default {
       {
         titulo: 'Ley 9 de 1979 ',
         texto:
-          'Esta Ley  expone las normas sanitarias para prevención y control de riesgos biológicos, físicos o químicos que alterarían el entorno humano. Para más información consulta este enlace:<br><br><a class="anexo mb-4" href="./downloads/LEY 0009 DE 1979.pdf" target="_blank"><div class="anexo__icono"><img src="./imagenes/icono-pdf.svg" /></div><div class="anexo__texto"><p>Anexo. LEY 9 DE 1979 (enero 24) Diario Oficial No. 35308, del 16 de julio de 1979</p></div></a>',
+          'Esta Ley  expone las normas sanitarias para prevención y control de riesgos biológicos, físicos o químicos que alterarían el entorno humano. Para más información consulta este enlace:<br><br><a class="anexo mb-4" href="./downloads/LEY_0009_1979.pdf" target="_blank"><div class="anexo__icono"><img src="./imagenes/icono-pdf.svg" /></div><div class="anexo__texto"><p>Anexo. LEY 9 DE 1979 (enero 24) Diario Oficial No. 35308, del 16 de julio de 1979</p></div></a>',
         icono: require('@/assets/curso/tema3/icon1.svg'),
       },
       {
         titulo: 'Ley 1562 de 2012',
         texto:
-          'Por la cual se modifica el sistema de riesgos laborales en materia de salud ocupacional. Esta ley moderniza el sistema de riesgos personales.  Para más información consulta este enlace:<br><br><a class="anexo mb-4" href="./downloads/Ley-1562-de-2012.pdf" target="_blank"><div class="anexo__icono"><img src="./imagenes/icono-pdf.svg" /></div><div class="anexo__texto"><p>Anexo. Anexo. LEY 1562 de 2012 Sistema general de riesgos laborales</p></div></a>',
+          'Por la cual se modifica el sistema de riesgos laborales en materia de salud ocupacional. Esta ley moderniza el sistema de riesgos personales.  Para más información consulta este enlace:<br><br><a class="anexo mb-4" href="./downloads/Ley_1562_de_2012.pdf" target="_blank"><div class="anexo__icono"><img src="./imagenes/icono-pdf.svg" /></div><div class="anexo__texto"><p>Anexo. Anexo. LEY 1562 de 2012 Sistema general de riesgos laborales</p></div></a>',
         icono: require('@/assets/curso/tema3/icon2.svg'),
       },
       {
