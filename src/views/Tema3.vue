@@ -381,13 +381,13 @@ export default {
       {
         titulo: 'Norma Técnica Colombiana NTC 5840',
         texto:
-          'Esta Norma establece los requisitos necesarios para la prestación de los servicios funerarios. Para más información consulta el siguiente enlace:<br><br><div class="row"><div class="col-12"> <a class="anexo mb-4 mb-lg-0" href="https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=es-ES&Q=AF60935720F13C6466C0297B7F80FF16&Req=" target="_blank"><div class="anexo__icono"><img src="./imagenes/icono-link.svg" /></div><div class="anexo__texto"><p>Enlace web. Norma Técnica Colombiana NTC 5840</p></div></a></div></div>',
+          'Esta norma establece los requisitos necesarios para la prestación de los servicios funerarios. Para más información, ingrese a las bases de datos del Sistema de Bibliotecas del SENA, seleccione el icono de ICONTEC, ingrese sus credenciales y proceda con la búsqueda de la norma  NTC 5840.<br><br><div class="row"><div class="col-12"> <a class="anexo mb-4 mb-lg-0" href="https://biblioteca.sena.edu.co/" target="_blank"><div class="anexo__icono"><img src="./imagenes/icono-link.svg" /></div><div class="anexo__texto"><p>Enlace web. Sistema de Bibliotecas - SENA</p></div></a></div></div>',
         icono: require('@/assets/curso/tema3/icon3.svg'),
       },
       {
         titulo: 'Norma Técnica Colombiana NTC 6212',
         texto:
-          'Esta Norma establece define los términos utilizados en la prestación de servicios funerarios. Para más información, consulta el siguiente enlace:<br><br><div class="row"><div class="col-12"> <a class="anexo mb-4 mb-lg-0" href="https://e-collection-icontec-org.bdigital.sena.edu.co/pdfview/viewer.aspx?locale=es-ES&Q=6002A697B3F03F6282B108144F0748A3&Req=" target="_blank"><div class="anexo__icono"><img src="./imagenes/icono-link.svg" /></div><div class="anexo__texto"><p>Enlace web. Norma Técnica Colombiana NTC 6212</p></div></a></div></div>',
+          'Esta norma define los términos utilizados en la prestación de servicios funerarios. Para más información, ingrese a las bases de datos del Sistema de Bibliotecas del SENA. Una vez dentro de ellas, seleccione el icono de ICONTEC,  ingrese sus credenciales y busque la norma NTC 6212.<br><br><div class="row"><div class="col-12"> <a class="anexo mb-4 mb-lg-0" href="https://biblioteca.sena.edu.co/" target="_blank"><div class="anexo__icono"><img src="./imagenes/icono-link.svg" /></div><div class="anexo__texto"><p>Enlace web. Sistema de Bibliotecas - SENA</p></div></a></div></div>',
         icono: require('@/assets/curso/tema3/icon4.svg'),
       },
     ],
